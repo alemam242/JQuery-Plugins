@@ -1,0 +1,35 @@
+UI/UX Enhancements:
+jQuery UI
+Slick
+Fancybox
+Magnific Popup
+Form Enhancements:
+jQuery Validation
+Select2
+Datepicker
+Data Manipulation and Visualization:
+DataTables
+Chart.js
+Ajax and Data Retrieval:
+jQuery.ajax
+jQuery.get
+jQuery.post
+Utilities:
+jQuery Cookie
+jQuery ScrollTo
+jQuery Lazy Load
+Animation and Effects:
+jQuery animate
+jQuery Easing
+Animate.css (not jQuery-specific, but commonly used with jQuery)
+Responsive Design:
+FitText
+FlexSlider
+Owl Carousel
+Content Manipulation:
+jQuery DOM Manipulation (built-in)
+jQuery Append/Prepend
+Accessibility:
+jQuery Aria
+Localization and Internationalization:
+jQuery Globalize
